@@ -1,0 +1,21 @@
+Artistic:
+https://vapor.fm/
+https://awakenakira.com/
+http://cachemonet.com/
+
+hacking:
+http://www.phrack.org/
+https://book.hacktricks.xyz/
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+Programming:
+https://cs.lmu.edu/~ray/notes/nasmtutorial/ (nasm tutorial)
+https://github.com/gbdev/awesome-gbdev (bg dev)
+https://adventofcode.com/ (Advent of Code)
+https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html (bash tutorial)
+
+misc:
+http://www.kisai.info/fansub/mangas.html
+https://www.cykadev.com/dokidoki/
+https://candybox2.github.io/
+https://popcorngarage.com/
